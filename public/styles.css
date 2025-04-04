@@ -38,8 +38,9 @@
         a:hover {
             text-decoration: underline;
         }
-        
-        /* Ensure images on car detail pages are resized */
+/* Other CSS rules */
+
+/* Ensure images on car detail pages are resized */
 #car-detail img {
     width: 500px;
     height: auto;
@@ -48,4 +49,3 @@
     display: block;
     border-radius: 8px;
 }
-    
