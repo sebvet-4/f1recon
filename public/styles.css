@@ -38,4 +38,14 @@
         a:hover {
             text-decoration: underline;
         }
+        
+        /* Ensure images on car detail pages are resized */
+#car-detail img {
+    width: 500px;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 8px;
+}
     
